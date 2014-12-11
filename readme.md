@@ -13,13 +13,17 @@ permission we won't include the data from the sources in the repository.
 ## Datasets
 
 __/r/scotch archive__
+
 _[/r/scotch archive](https://docs.google.com/spreadsheets/d/1X1HTxkI6SqsdpNSkSSivMzpxNT-oeTbjFFDdEkXD30o)_
+
 Tended by the community at [/r/scotch](http://www.reddit.com/r/scotch). Form is
 a bit free field so there are some data processing challenges, however has
 over 10,000 responses.
 
 __86 Distilleries by Dr. Wisehart__
+
 _[86 Distilleries](https://www.mathstat.strath.ac.uk/outreach/nessie/nessie_whisky.html)_
+
 Compiled by professor Wisehart for his publications:[@wishart2006whisky],
 [@wishart2009flavour]. Dr. Wisehart has moved beyond University of St Andrews
 and with him a lot of contextual information about the data set. Christopher
@@ -35,7 +39,9 @@ fear of loosing that, we'll mirror some here:
 Many use this data set to create visualizations[^1] or even analysis[^2].
 
 __Whisky-Monitor by Malt Maniacs__
+
 _[Whisky-Monitor](http://www.whisky-monitor.com)_
+
 Tended by the Malt Maniacs community. Similar to the /r/scotch archive, but has
 much more rigorous approach to organizing the 'released' bottles from
 distillaries. Typically has more contextual information also.
