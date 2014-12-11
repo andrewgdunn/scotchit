@@ -22,9 +22,6 @@ raw.rename(columns={'Whisky Name': 'whisky',
 					   'Reviewer Username': 'user',
 					   'Rating': 'rating'}, inplace=True)
 
-for rating in ratings:
-	raw.loc[len(raw)+1] = rating
-
 wp = raw.pivot_table(columns=['user'], index=['whisky'], values='rating')
 
 rating_texacer = wp['Texacer']
