@@ -1,9 +1,16 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+simplepearson.py
+~~~~
+
+Reference from: http://tungwaiyip.info/2012/Collaborative%20Filtering.html
+
+"""
 __author__ = ["Andrew G. Dunn"]
 __copyright__ = __author__
 __license__ = "MIT"
 __email__ = "andrew.g.dunn@gmail.com"
-
-# Reference from: http://tungwaiyip.info/2012/Collaborative%20Filtering.html
 
 import pandas as pd
 
